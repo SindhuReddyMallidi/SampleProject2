@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleProject2</string>
+    <string name="link">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4</string>
+</resources>
